@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'guard', '~> 2.14.0'
+gem 'guard-rspec', '~> 4.7.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
